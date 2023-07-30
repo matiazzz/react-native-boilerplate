@@ -1,0 +1,8 @@
+{
+  "name": "react-native-boilerplate",
+  "version": "1.0.0",
+  "description": "React Native Boilerplate",
+  "repository": "https://github.com/matiazzz/react-native-boilerplate.git",
+  "author": "Matias <matias.zacarias.e@gmail.com>",
+  "license": "MIT"
+}
